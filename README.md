@@ -2,7 +2,25 @@
 
 ### Hi, I am Havish Madhvapaty 👋  
 # **[HAVISH M CONSULTING](https://www.havishmconsulting.com/)**  
+
+
+- 🔭 I’m currently working on Power BI (Data Visualization, Power Query, DAX); Excel(Spreadsheet Models, LAMBDA), Tableau (Data Visualization) 
   
+
+- 🌱 I’m currently learning Advanced DAX; building Functions on LAMBDA and WebApps on Excel
+  
+
+- ❓ Ask me about anything related to Power BI and Excel
+  
+
+- ⚡ Fun fact: I code and build spreadsheet models by day, and game at night   
+
+
+
+<br />
+<br />
+<br />
+<br />
 
 
 <a href="https://github.com//havishmad" target="_blank">
