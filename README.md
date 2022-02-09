@@ -4,7 +4,7 @@
 # **[HAVISH M CONSULTING](https://www.havishmconsulting.com/)**  
 
 
-- 🔭 I’m currently working on Power BI (Data Visualization, Power Query, DAX); Excel(Spreadsheet Models, LAMBDA), Tableau (Data Visualization) 
+- 🔭 I’m currently working on Power BI (Data Visualization, Power Query, DAX); Excel (Spreadsheet Models, LAMBDA), Tableau (Data Visualization) 
   
 
 - 🌱 I’m currently learning Advanced DAX; building Functions on LAMBDA and WebApps on Excel
