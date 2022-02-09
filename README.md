@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there, I am Havish Madhvapaty 👋
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-
+Connect with me:
+[<img align="left" alt="Sabesan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 <!--
 **havishmad/havishmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
