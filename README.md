@@ -5,19 +5,6 @@
   
 
 
-<br/>  
-<br/>  
-<br/>
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-
 <a href="https://github.com/https://github.com/havishmad" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -34,6 +21,9 @@
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
   
+<br/>  
+<br/>  
+<br/>  
   
 <img src="https://github-readme-stats.vercel.app/api?username=havishmad&show_icons=true&count_private=true&hide_border=true" align="left" />  
   
